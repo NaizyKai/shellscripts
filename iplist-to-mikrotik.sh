@@ -5,7 +5,7 @@
 
 #SETTINGS
 #url of input file
-url="https://raw.githubusercontent.com/zapret-info/z-i/master/dump.csv"
+url="https://raw.githubusercontent.com/NaizyKai/shellscripts/master/iplist-to-mikrotik.sh"
 #address list in mikrotik
 list="russianbl"
 #Where to download source file
